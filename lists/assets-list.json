@@ -1,0 +1,324 @@
+{
+  "1": {
+    "label": "Ethereum",
+    "symbol": "ETH",
+    "image": "/eth.svg",
+    "rpcEndpoint": "https://mainnet.infura.io/v3/28d7e302af054233b8e9328162461291",
+    "assets": {
+      "0x0000000000000000000000000000000000000000000000000000000000000000": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "label": "Ethereum",
+        "symbol": "ETH",
+        "image": "/eth.svg",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000001": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000001",
+        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+        "label": "Dai Stablecoin",
+        "symbol": "DAI",
+        "image": "/dai.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000002": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000002",
+        "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+        "label": "Wrapped BTC",
+        "symbol": "WBTC",
+        "image": "/wrappedbtc.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000003": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000003",
+        "address": "0x5aaefe84e0fb3dd1f0fcff6fa7468124986b91bd",
+        "label": "Evedo",
+        "symbol": "EVED",
+        "image": "https://etherscan.io/token/images/evedo_28.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000005": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000005",
+        "address": "0x5e3346444010135322268a4630d2ed5f8d09446c",
+        "label": "LockTrip",
+        "symbol": "LOC",
+        "image": "https://etherscan.io/token/images/locktrip_32.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000006": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000006",
+        "address": "0x7051faED0775f664a0286Af4F75ef5ed74e02754",
+        "label": "ChangeX",
+        "symbol": "CHANGE",
+        "image": "https://firebasestorage.googleapis.com/v0/b/changex-io.appspot.com/o/Group%2024578.png?alt=media&token=2e6fe3d7-fd4e-418f-b093-3d35290a2c2b",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000007": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000007",
+        "address": "0xfb1172b050bcc798e37ae8abf620cc528e771162",
+        "label": "GoMeat",
+        "symbol": "GOMT",
+        "image": "https://info.hydradex.org/images/tokens/7b8dd012ec9e1f11e008376ef21d29ba4cc78e24.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000008": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000008",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "label": "USDC",
+        "symbol": "USDC",
+        "image": "https://etherscan.io/token/images/centre-usdc_28.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000009": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000009",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "label": "USDT",
+        "symbol": "USDT",
+        "image": "https://etherscan.io/token/images/tether_32.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000010": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000010",
+        "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+        "label": "BUSD",
+        "symbol": "BUSD",
+        "image": "https://etherscan.io/token/images/binanceusd_32.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000056": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000056",
+        "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+        "label": "BNB",
+        "symbol": "BNB",
+        "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000137": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000137",
+        "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+        "label": "MATIC",
+        "symbol": "MATIC",
+        "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+        "decimals": "18"
+      }
+    }
+  },
+  "8": {
+    "label": "Hydra",
+    "symbol": "HYDRA",
+    "image": "/hydra-logo.png",
+    "rpcEndpoint": "https://explorer.hydrachain.org/7001/contract/",
+    "assets": {
+      "0x0000000000000000000000000000000000000000000000000000000000000000": {
+        "address": "ab9e970de9ba9ec2c64a7f7f911da44b750ecf6a",
+        "label": "Ethereum",
+        "symbol": "ETH",
+        "image": "/eth.svg",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000001": {
+        "address": "abc2cd00700e06922bcf30fe0ad648507113cc56",
+        "label": "DAI Stablecoin",
+        "symbol": "DAI",
+        "image": "/dai.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000002": {
+        "address": "27a459ac47204f1e7fc5c48ffeafa990af244e13",
+        "label": "Wrapped BTC",
+        "symbol": "WBTC",
+        "image": "/wrappedbtc.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000003": {
+        "address": "9cbbbc9d192fc81225a70f88877169b94d663f8b",
+        "label": "Evedo",
+        "symbol": "EVED",
+        "image": "https://etherscan.io/token/images/evedo_28.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000005": {
+        "address": "4ab26aaa1803daa638910d71075c06386e391147",
+        "label": "LockTrip",
+        "symbol": "LOC",
+        "image": "https://etherscan.io/token/images/locktrip_32.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000006": {
+        "address": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9",
+        "label": "ChangeX",
+        "symbol": "CHANGE",
+        "image": "https://firebasestorage.googleapis.com/v0/b/changex-io.appspot.com/o/Group%2024578.png?alt=media&token=2e6fe3d7-fd4e-418f-b093-3d35290a2c2b",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000007": {
+        "address": "7b8dd012ec9e1f11e008376ef21d29ba4cc78e24",
+        "label": "GoMeat",
+        "symbol": "GOMT",
+        "image": "https://info.hydradex.org/images/tokens/7b8dd012ec9e1f11e008376ef21d29ba4cc78e24.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000008": {
+        "address": "e4b8164dccf3489f66124cace1570dc35b58fc90",
+        "label": "USDC",
+        "symbol": "USDC",
+        "image": "https://etherscan.io/token/images/centre-usdc_28.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000009": {
+        "address": "932917c89717c809f67ebb421e24fd04d7a96d33",
+        "label": "USDT",
+        "symbol": "USDT",
+        "image": "https://etherscan.io/token/images/tether_32.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000010": {
+        "address": "0c404645b9e36b6cf9bcaf2747e472334b268e9d",
+        "label": "BUSD",
+        "symbol": "BUSD",
+        "image": "https://etherscan.io/token/images/binanceusd_32.png",
+        "decimals": "18"
+      }
+    }
+  },
+  "137": {
+    "label": "Polygon(MATIC)",
+    "symbol": "MATIC",
+    "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+    "rpcEndpoint": " https://polygon.llamarpc.com/",
+    "assets": {
+      "0x0000000000000000000000000000000000000000000000000000000000000000": {
+        "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+        "label": "Ethereum",
+        "symbol": "ETH",
+        "image": "/eth.svg",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000001": {
+        "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+        "label": "DAI Stablecoin",
+        "symbol": "DAI",
+        "image": "/dai.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000002": {
+        "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
+        "label": "WBTC ERC2 Polygon",
+        "symbol": "WBTC",
+        "image": "/wrappedbtc.png",
+        "decimals": "8"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000008": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000008",
+        "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+        "label": "USDC",
+        "symbol": "USDC",
+        "image": "https://etherscan.io/token/images/centre-usdc_28.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000009": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000009",
+        "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "label": "USDT",
+        "symbol": "USDT",
+        "image": "https://etherscan.io/token/images/tether_32.png",
+        "decimals": "6"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000010": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000010",
+        "address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+        "label": "BUSD",
+        "symbol": "BUSD",
+        "image": "https://etherscan.io/token/images/binanceusd_32.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000056": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000056",
+        "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+        "label": "BNB",
+        "symbol": "BNB",
+        "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000137": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000137",
+        "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+        "label": "MATIC",
+        "symbol": "MATIC",
+        "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+        "decimals": "18"
+      }
+    }
+  },
+  "56": {
+    "label": "Binance Smart Chain",
+    "symbol": "BNB",
+    "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
+    "rpcEndpoint": "https://bsc-dataseed.binance.org/",
+    "assets": {
+      "assets": {
+        "0x0000000000000000000000000000000000000000000000000000000000000000": {
+          "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+          "label": "Ethereum",
+          "symbol": "ETH",
+          "image": "/eth.svg",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000001": {
+          "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+          "label": "DAI Stablecoin",
+          "symbol": "DAI",
+          "image": "/dai.png",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000002": {
+          "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+          "label": "WBTC",
+          "symbol": "WBTC",
+          "image": "/wrappedbtc.png",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000008": {
+          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000008",
+          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+          "label": "USDC",
+          "symbol": "USDC",
+          "image": "https://etherscan.io/token/images/centre-usdc_28.png",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000009": {
+          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000009",
+          "address": "0x55d398326f99059fF775485246999027B3197955",
+          "label": "USDT",
+          "symbol": "USDT",
+          "image": "https://etherscan.io/token/images/tether_32.png",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000010": {
+          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000010",
+          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+          "label": "BUSD",
+          "symbol": "BUSD",
+          "image": "https://etherscan.io/token/images/binanceusd_32.png",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000056": {
+          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000056",
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "label": "BNB",
+          "symbol": "BNB",
+          "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
+          "decimals": "18"
+        },
+        "0x0000000000000000000000000000000000000000000000000000000000000137": {
+          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000137",
+          "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+          "label": "MATIC",
+          "symbol": "MATIC",
+          "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+          "decimals": "18"
+        }
+      }
+    }
+  }
+}
