@@ -2,6 +2,7 @@
   "1": {
     "label": "Ethereum",
     "symbol": "ETH",
+    "chainId": "1",
     "image": "/eth.svg",
     "rpcEndpoint": "https://mainnet.infura.io/v3/28d7e302af054233b8e9328162461291",
     "assets": {
@@ -107,6 +108,7 @@
     "label": "Hydra",
     "symbol": "HYDRA",
     "image": "/hydra-logo.png",
+    "chainId": "8",
     "rpcEndpoint": "https://explorer.hydrachain.org/7001/contract/",
     "assets": {
       "0x0000000000000000000000000000000000000000000000000000000000000000": {
@@ -184,6 +186,7 @@
   "137": {
     "label": "Polygon(MATIC)",
     "symbol": "MATIC",
+    "chainId": "137",
     "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
     "rpcEndpoint": " https://polygon.llamarpc.com/",
     "assets": {
@@ -253,6 +256,7 @@
   "56": {
     "label": "Binance Smart Chain",
     "symbol": "BNB",
+    "chainId": "56",
     "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
     "rpcEndpoint": "https://bsc-dataseed.binance.org/",
     "assets": {
