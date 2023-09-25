@@ -260,68 +260,66 @@
     "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
     "rpcEndpoint": "https://bsc-dataseed.binance.org/",
     "assets": {
-      "assets": {
-        "0x0000000000000000000000000000000000000000000000000000000000000000": {
-          "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-          "label": "Ethereum",
-          "symbol": "ETH",
-          "image": "/eth.svg",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000001": {
-          "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-          "label": "DAI Stablecoin",
-          "symbol": "DAI",
-          "image": "/dai.png",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000002": {
-          "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-          "label": "WBTC",
-          "symbol": "WBTC",
-          "image": "/wrappedbtc.png",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000008": {
-          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000008",
-          "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
-          "label": "USDC",
-          "symbol": "USDC",
-          "image": "https://etherscan.io/token/images/centre-usdc_28.png",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000009": {
-          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000009",
-          "address": "0x55d398326f99059fF775485246999027B3197955",
-          "label": "USDT",
-          "symbol": "USDT",
-          "image": "https://etherscan.io/token/images/tether_32.png",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000010": {
-          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000010",
-          "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-          "label": "BUSD",
-          "symbol": "BUSD",
-          "image": "https://etherscan.io/token/images/binanceusd_32.png",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000056": {
-          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000056",
-          "address": "0x0000000000000000000000000000000000000000",
-          "label": "BNB",
-          "symbol": "BNB",
-          "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
-          "decimals": "18"
-        },
-        "0x0000000000000000000000000000000000000000000000000000000000000137": {
-          "assetId": "0x0000000000000000000000000000000000000000000000000000000000000137",
-          "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
-          "label": "MATIC",
-          "symbol": "MATIC",
-          "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
-          "decimals": "18"
-        }
+      "0x0000000000000000000000000000000000000000000000000000000000000000": {
+        "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+        "label": "Ethereum",
+        "symbol": "ETH",
+        "image": "/eth.svg",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000001": {
+        "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+        "label": "DAI Stablecoin",
+        "symbol": "DAI",
+        "image": "/dai.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000002": {
+        "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+        "label": "WBTC",
+        "symbol": "WBTC",
+        "image": "/wrappedbtc.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000008": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000008",
+        "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+        "label": "USDC",
+        "symbol": "USDC",
+        "image": "https://etherscan.io/token/images/centre-usdc_28.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000009": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000009",
+        "address": "0x55d398326f99059fF775485246999027B3197955",
+        "label": "USDT",
+        "symbol": "USDT",
+        "image": "https://etherscan.io/token/images/tether_32.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000010": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000010",
+        "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+        "label": "BUSD",
+        "symbol": "BUSD",
+        "image": "https://etherscan.io/token/images/binanceusd_32.png",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000056": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000056",
+        "address": "0x0000000000000000000000000000000000000000",
+        "label": "BNB",
+        "symbol": "BNB",
+        "image": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png?v=013",
+        "decimals": "18"
+      },
+      "0x0000000000000000000000000000000000000000000000000000000000000137": {
+        "assetId": "0x0000000000000000000000000000000000000000000000000000000000000137",
+        "address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+        "label": "MATIC",
+        "symbol": "MATIC",
+        "image": "https://polygonscan.com/images/svg/brands/polygon.svg?v=1.3",
+        "decimals": "18"
       }
     }
   }
